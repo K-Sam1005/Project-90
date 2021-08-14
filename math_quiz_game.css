@@ -1,0 +1,37 @@
+body
+{
+	background: lightblue;
+}
+
+	.number1_div , .number2_div
+	{
+		background: lightblue;
+		padding: 20px;
+		float: none;
+		border-radius: 15px;
+        width: 500px;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#number1_input, #number2_input
+{
+	width: 60;  
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
